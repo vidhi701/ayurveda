@@ -10,10 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/poppins": "^5.2.7",
+    "lucide-react": "^1.25.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "react-icons": "^5.7.0",
+<<<<<<< HEAD
     "swiper": "^14.0.5"
+=======
+    "react-router-dom": "^7.18.1"
+>>>>>>> adaeb7c955ed8cf5879a23fb13152f8b1b6dc744
   },
   "devDependencies": {
     "@types/react": "^19.2.17",

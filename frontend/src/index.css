@@ -1,8 +1,6 @@
 @tailwind base;
 @tailwind components;
-<<<<<<< HEAD
 @tailwind utilities;
-=======
 @tailwind utilities;
 
 * {
@@ -44,4 +42,3 @@ button {
   border: none;
   background: transparent;
 }
->>>>>>> adaeb7c955ed8cf5879a23fb13152f8b1b6dc744

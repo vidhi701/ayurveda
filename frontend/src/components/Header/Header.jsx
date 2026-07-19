@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "./Logo";
-import NavLinks from "./NavLinks";
+import NavLinks from "./Navlinks";
 import HeaderIcons from "./Headericon";
 import TopBar from "./TopBar";
 

@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import { ChevronDown } from "lucide-react";
-import { NAV_LINKS } from "../../constants/navigation";
+import { NAV_LINKS } from "../../constants/Navigation";
 
 const NavLinks = () => {
   return (
